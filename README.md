@@ -19,5 +19,10 @@
   <a href = "mailto:guilherme.fre073@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-freudenburg-3b9ab6187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ 
+ 
+## * Sou desenvolvedor Full Stack na empresa Euax no Brasil 🖥️
+
+## * Estou estudando React, NodeJs e TwypeScript 📜
 
 </div>
