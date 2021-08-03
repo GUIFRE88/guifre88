@@ -1,4 +1,4 @@
-## Oi! Eu sou o Guilherme Freudenburg
+# Oi! Eu sou o Guilherme Freudenburg
  <div>
   <a href="https://github.com/guifre88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifre88&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
@@ -24,5 +24,7 @@
 ## * Sou desenvolvedor Full Stack na empresa Euax no Brasil 🖥️
 
 ## * Estou estudando React, NodeJs e TwypeScript 📜
+ 
+## * Minha paixão é Ruby on Rails 📜
 
 </div>
