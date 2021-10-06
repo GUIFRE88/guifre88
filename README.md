@@ -23,7 +23,7 @@
  
 ## * Sou desenvolvedor Full Stack na empresa Euax no Brasil 🖥️
 
-## * Estou estudando React, NodeJs e TypeScript 📜
+## * Estou estudando React Native, React, NodeJs e TypeScript 📜
  
 ## * Minha paixão é Ruby on Rails 📜
 
