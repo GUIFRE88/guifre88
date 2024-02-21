@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <div>
-  <h1> Sou desenvolvedor Full Stack na empresa Twygo no Brasil 🖥️</h1>
- <h1> Estou estudando React Native, React, NodeJs e TypeScript 📜</h1>
- <h1> Minha paixão é Ruby on Rails 📜</h1>
+  <h3> Sou desenvolvedor Full Stack na empresa Twygo no Brasil 🖥️</h3>
+  <h3> Estou estudando React Native, React, NodeJs e TypeScript 📜</h3>
+  <h3> Minha paixão é Ruby on Rails 📜</h3>
 </div>
