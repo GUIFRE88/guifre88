@@ -1,8 +1,7 @@
 # Oi! Eu sou o Guilherme Freudenburg
  <div>
   <a href="https://github.com/guifre88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifre88&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifre88&layout=compact&theme=white&langs_count=7&theme=dracula"/>
+   <img align="left" alt="GUIFRE88's Github Stats" src="https://github-readme-stats-git-master-nilo-devs-projects.vercel.app/api?username=guifre88&show_icons=true&show=reviews,prs_merged&hide=stars,issues&border_radius=16&custom_title=My%20Github%20Stats&rank_icon=github&include_all_commits=true&bg_color=1c2029&icon_color=f26420&title_color=f26420&text_color=fff" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
