@@ -17,13 +17,11 @@
 <div> 
   <a href = "mailto:guilherme.fre073@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-freudenburg-3b9ab6187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
-## * Sou desenvolvedor Full Stack na empresa Euax no Brasil 🖥️
-
-## * Estou estudando React Native, React, NodeJs e TypeScript 📜
- 
-## * Minha paixão é Ruby on Rails 📜
-
+</div>
+<br/>
+<br/>
+<div>
+  <h1> Sou desenvolvedor Full Stack na empresa Euax no Brasil 🖥️</h1>
+ <h1> Estou estudando React Native, React, NodeJs e TypeScript 📜</h1>
+ <h1> Minha paixão é Ruby on Rails 📜</h1>
 </div>
